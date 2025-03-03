@@ -1,6 +1,7 @@
 # Project101 MATLAB R2024b False Position
 # Thanawich Adisaisakda 6610110121
 # Copy below this
+# THIS CODE IS FOR MATLAB ONLY!!! #
 -------------------------------------------------
 %% Exercise 5.10 - False Position Method
 
